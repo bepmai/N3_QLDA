@@ -1,0 +1,7 @@
+Cách chạy
+- Tải Node.js 
+- Thực thi cách lệnh
+  composer  install
+  composer update
+  npm install 
+  npm run build
